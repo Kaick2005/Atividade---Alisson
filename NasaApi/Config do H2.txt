@@ -1,0 +1,6 @@
+Config do H2:
+
+JDBC URL: jdbc:h2:mem:nasa
+User: sa
+Password: (vazio)
+
